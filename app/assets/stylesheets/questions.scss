@@ -1,0 +1,14 @@
+// Place all the styles related to the Questions controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+  $yellish: #FFFFE1;
+  $gray_border: thick solid #DDDDDD;
+#you {
+  border-left: $gray_border;
+  padding: 0px 10px;
+}
+#coach {
+  background: $yellish;
+  padding: 0px 10px;
+  border-left: $gray_border;
+}
